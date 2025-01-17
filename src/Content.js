@@ -25,10 +25,10 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
-import project4 from "./assets/images/projects/img4.png";
+import project1 from "./assets/images/Projects/img1.png";
+import project2 from "./assets/images/Projects/img2.png";
+import project3 from "./assets/images/Projects/img3.png";
+import project4 from "./assets/images/Projects/img4.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
@@ -64,7 +64,7 @@ export const content = {
       icon: RiServiceLine,
     },
     {
-      link: "#projects",
+      link: "#Projects",
       icon: RiProjectorLine,
     },
     {
@@ -243,7 +243,7 @@ export const content = {
   },
   Hireme: {
     title: "Hire Me",
-    subtitle: "FOR YOUR PROJECTS",
+    subtitle: "FOR YOUR Projects",
     image1: Hireme_person,
     image2: Hireme_person2,
     para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
