@@ -215,6 +215,24 @@ export const content = {
       },
     ],
   },
+  Formations: {
+    title: "Cursos",
+    subtitle: "Formação continua",
+    project_content: [
+      {
+        title: "Gym Website",
+      },
+      {
+        title: "Gym Website",
+      },
+      {
+        title: "Gym Website",
+      },
+      {
+        title: "Gym Website",
+      },
+    ],
+  },
   Testimonials: {
     title: "Testemunhas",
     subtitle: "O que falam sobre mim",
@@ -250,7 +268,7 @@ export const content = {
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Me Contrate! 😁😀",
+    title: "Contacto ☎",
     social_media: [
       {
         text: "fernando-puna@hotmail.com",
